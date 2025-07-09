@@ -10,7 +10,7 @@ Welcome to **My Awesome Project** – a cool and simple project built to do some
 ## 🛠️ Tech Stack
 
 - ⚙️ Backend: Node.js / Express / Django / Laravel
-- 🖼️ Frontend: React / Vue / Bootstrap / Tailwind CSS
+- 🖼️ Frontend: React / Vue / Bootstradsfdsp / Tailwind CSS
 - 💾 Database: MongoDB / MySQL / PostgreSQL
 
 ## 🚀 Getting Started
