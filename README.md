@@ -5,9 +5,7 @@ Welcome to **My Awesome Project** – a cool and simple project built to do some
 ## 📦 Features
 
 - Fast and lightweight
-- Easy to set up
-- Beginner-friendly codebase
-- Modular and extensible architecture
+- Easy to set up='- Modular and extensible architecture
 
 ## 🛠️ Tech Stack
 
