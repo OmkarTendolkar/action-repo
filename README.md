@@ -11,7 +11,6 @@ Welcome to **My Awesome Project** – a cool and simple project built to do some
 
 - ⚙️ Backend: Node.js / Express / Django / Laravel
 - 🖼️ Frontend: React / Vue / Bootstradsfdsp / Tailwind CSS
-- 💾 Database: MongoDB / MySQL / PostgreSQL
 
 ## 🚀 Getting Started
 
